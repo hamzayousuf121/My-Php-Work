@@ -1,0 +1,73 @@
+
+	body{
+		background-color:mintcream;
+	}
+	
+	#Board
+	{
+		    text-align: center;
+		position: relative;
+		top: -82px;
+		text-transform:uppercase;
+	}
+	
+	b{
+      position: relative;
+    left: 245px;
+    top: -34px;}
+	
+	.main-content
+	{
+			text-align: center;
+			position: relative;
+			top: -106px;
+			text-transform:uppercase;}
+			.para{
+				text-align:center;
+				position:relative;
+				top:-124px;
+			}
+			.container{
+				display:flex;
+				width:200px;
+			}
+			.left-side{
+				
+				position:relative;
+				bottom:100px;
+				}
+			.left-side p{ 
+			position:relative;
+				
+			}
+			h1 .header {
+				text-align:center;
+				color:red;
+				text-transform:uppercase;
+				
+			}
+			.sbj {
+				width:100px;
+			}
+			.foot {
+				width:100px;
+			}
+			.table {
+				  background-color:gray;
+					    position: relative;
+						bottom: 364px;
+						left: 380px;
+			border-collapse:collapse;}
+}
+			.header{
+				
+				color:red;
+				position: relative;
+				left: 460px;
+				bottom: 370px;
+				font-size:5em;
+				font-weight:bold;
+			}
+			tr:nth-child(even) {background-color: #f2f2f2;}
+			tr:nth-child(odd) {background-color: gray;}
+		
